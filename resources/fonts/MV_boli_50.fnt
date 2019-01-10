@@ -1,0 +1,14 @@
+info face="MV Boli" size=50 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=50 base=40 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="MV_boli_50_0.png"
+chars count=10
+char id=48   x=82    y=0     width=25    height=27    xoffset=3     yoffset=13    xadvance=27    page=0  chnl=15
+char id=49   x=232   y=0     width=14    height=27    xoffset=3     yoffset=13    xadvance=15    page=0  chnl=15
+char id=50   x=0     y=0     width=25    height=28    xoffset=0     yoffset=13    xadvance=25    page=0  chnl=15
+char id=51   x=108   y=0     width=25    height=27    xoffset=1     yoffset=13    xadvance=25    page=0  chnl=15
+char id=52   x=160   y=0     width=24    height=27    xoffset=2     yoffset=13    xadvance=26    page=0  chnl=15
+char id=53   x=55    y=0     width=26    height=27    xoffset=1     yoffset=13    xadvance=25    page=0  chnl=15
+char id=54   x=134   y=0     width=25    height=27    xoffset=2     yoffset=13    xadvance=25    page=0  chnl=15
+char id=55   x=209   y=0     width=22    height=27    xoffset=5     yoffset=13    xadvance=23    page=0  chnl=15
+char id=56   x=26    y=0     width=28    height=27    xoffset=1     yoffset=13    xadvance=25    page=0  chnl=15
+char id=57   x=185   y=0     width=23    height=27    xoffset=3     yoffset=13    xadvance=25    page=0  chnl=15

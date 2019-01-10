@@ -1,0 +1,6 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="heart75" filename="heart75.png_0.png" /> 
+    <bitmap id="redHeart95" filename="red-heart-clipart_95.png" /> 
+    <bitmap id="redHeart80" filename="heart80.png" /> 
+</drawables>

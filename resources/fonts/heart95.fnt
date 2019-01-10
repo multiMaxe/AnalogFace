@@ -1,0 +1,9 @@
+info face="Segoe UI Emoji" size=90 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=90 base=73 scaleW=256 scaleH=256 pages=2 packed=0 alphaChnl=0 redChnl=3 greenChnl=3 blueChnl=3
+page id=0 file="heart95_0.png"
+page id=1 file="heart95_1.png"
+chars count=4
+char id=101  x=0     y=0     width=215   height=215   xoffset=0     yoffset=0     xadvance=215   page=0  chnl=15
+char id=169  x=0     y=0     width=78    height=77    xoffset=8     yoffset=11    xadvance=93    page=1  chnl=15
+char id=255  x=216   y=0     width=33    height=63    xoffset=0     yoffset=27    xadvance=33    page=0  chnl=15
+char id=9829 x=79    y=0     width=68    height=58    xoffset=13    yoffset=20    xadvance=93    page=1  chnl=15

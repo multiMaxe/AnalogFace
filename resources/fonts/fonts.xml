@@ -1,0 +1,7 @@
+<fonts> 
+  <font id="mvBoliFont100" filename="MV_boli.fnt" filter="0123456789"/>
+  <font id="mvBoliFont50" filename="MV_boli_50.fnt" filter="0123456789"/>
+  <font id="trebuchetMS_50" filename="TrebuchetMS_50_blackOnAlpha.fnt" filter="0123456789"/>
+  <font id="trebuchetMS_65" filename="TrebuchetMS_65_blackOnAlpha.fnt" filter="0123456789"/>
+  <font id="trebuchetMS_75" filename="TrebuchetMS_75_blackOnAlpha.fnt" filter="0123456789"/>
+</fonts>
